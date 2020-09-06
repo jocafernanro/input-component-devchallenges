@@ -1,4 +1,4 @@
-# [Dev challenge] **IN PROGRESS** Input reusable component
+# [Dev challenge] **[IN PROGRESS]** Input reusable component
 
 This is a project made for a dev challenge (url: [https://devchallenges.io/](https://devchallenges.io/)) It consists on developing a reusable button component following the user stories.
 The challenge and the requirements here: [https://devchallenges.io/challenges/TSqutYM4c5WtluM7QzGp](https://devchallenges.io/challenges/TSqutYM4c5WtluM7QzGp)
